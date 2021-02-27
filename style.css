@@ -2,6 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 body{
-    background-color: red;
+    background-color: #31a052;
     font-family: 'Itim', cursive;
+}
+
+.border-1-radius-5{
+    background-color: #ed710a;
+    color: #cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
 }
